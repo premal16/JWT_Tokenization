@@ -1,0 +1,5 @@
+env/
+db.sqlite3
+access/__pycache__
+access/migrations
+tokenization/__pycache__
